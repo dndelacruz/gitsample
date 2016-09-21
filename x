@@ -1,0 +1,36 @@
+[33mcommit 547cdaf19d2a9233c0310ba3f2f3941260b39a5c[m
+Author: Don de la Cruz <Don de la Cruz>
+Date:   Mon Sep 19 23:01:26 2016 +0300
+
+    third commit
+
+[33mcommit d35ee8f60d0daef06fbe97c7d99bc140dccd31bd[m
+Merge: abbac2d 717673e
+Author: Don de la Cruz <Don de la Cruz>
+Date:   Mon Sep 19 22:49:58 2016 +0300
+
+    Mdajkfsldakf:xrge branch 'master' of https://github.com/dndelacruz/gitsample
+
+[33mcommit abbac2da6a8433d589360389a74c1b9f773025ee[m
+Author: Don de la Cruz <Don de la Cruz>
+Date:   Mon Sep 19 22:31:34 2016 +0300
+
+    second commit
+
+[33mcommit d5ed91db2aa91a3ec362de1e08a6e34467bdc364[m
+Author: Don de la Cruz <Don de la Cruz>
+Date:   Mon Sep 19 22:18:37 2016 +0300
+
+    first commit
+
+[33mcommit 717673e4d2d4b9f4c171084fc36689698e70ddeb[m
+Author: dndelacruz <dndelacruz@live.com.ph>
+Date:   Mon Sep 19 22:13:12 2016 +0300
+
+    Update README.md
+
+[33mcommit 0c2f908d67ceb0df9531a77aeabefee0077be0cf[m
+Author: dndelacruz <dndelacruz@live.com.ph>
+Date:   Mon Sep 19 22:12:32 2016 +0300
+
+    Initial commit
